@@ -1,0 +1,24 @@
+{
+  "name": "gamestore",
+  "version": "1.0.0",
+  "description": "Este é um projeto criado inicialmente em node.js de uma API rest, com o objetivo de funcionar como uma loja de e-comerce de jogos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "Node.js",
+    "API",
+    "rest",
+    "javascript",
+    "mySQL",
+    "bootstrap"
+  ],
+  "author": "Renan Nunes da Costa Gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
